@@ -28,3 +28,4 @@ warp://188.114.99.113:3138?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#87
 warp://162.159.192.145:864?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#86
 
 
+vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@2.56.126.76:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=XThpnyytziagvWMwmxGuSQ0nqfUw2sosq49F2fUEzmk&sid=0ca18da2c8f9
