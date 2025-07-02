@@ -19,6 +19,4 @@ warp://162.159.192.145:864?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#86
 
 warp://162.159.195.137:903?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#new
 
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#1
-
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#iran1%F0%9F%87%AE%F0%9F%87%B7
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪[www.v2nodes.com] V2Ray Vless-DE-10272895
