@@ -1,9 +1,9 @@
 //profile-title: AmiR 🇮🇷
 //profile-update-interval: 1
 
-warp://188.114.97.107:1014?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#96
+warp://[2606:4700:d0::8288:82da:99c4:b3bd]:942?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#96
 
-warp://188.114.99.253:1018?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#95
+warp://[2606:4700:d0::2923:bacf:d9b3:c27b]:1074?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#95
 
 warp://188.114.97.59:1843?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#93
 
