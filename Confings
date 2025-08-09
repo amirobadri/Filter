@@ -2,11 +2,7 @@
 //profile-update-interval: 1
 
 warp://162.159.192.5:1074?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#96
-
-warp://162.159.192.150:8854?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#95
-
-warp://162.159.192.191:8319?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#93
-
-warp://188.114.99.133:4233?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#89
-
-warp://188.114.97.109:1701?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#87
+warp://162.159.192.150:8854?ifp=40-90&ifps=30-80&ifpd=4-8&ifpm=m4#95
+warp://162.159.192.191:8319?ifp=40-80&ifps=40-80&ifpd=4-8&ifpm=m4#93
+warp://188.114.99.133:4233?ifp=30-80&ifps=50-80&ifpd=4-8&ifpm=m4#89
+warp://188.114.97.109:1701?ifp=20-50&ifps=40-70&ifpd=4-8&ifpm=m4#87
